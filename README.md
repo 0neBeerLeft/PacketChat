@@ -61,8 +61,8 @@ sudo apt install libpcap-dev
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/packetchat.git
-cd packetchat
+git clone https://github.com/0neBeerLeft/PacketChat.git
+cd PacketChat
 go mod tidy
 ```
 
